@@ -1,5 +1,5 @@
 <h3 align="center">A passionate Cyber security enthusiasm from India</h3>
-<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/03/96/79/08/360_F_396790843_2TxRNo4gv2ZqKwWcjBkDRYwM3JEf0F9s.jpg">
+<img align="right" alt="Coding" width="400" src="https://www.rbi.org.in/commonperson/English/images/CYBER%20SECURITY%20GIF_ENG_04.gif">
 
 <br>
 </br>
