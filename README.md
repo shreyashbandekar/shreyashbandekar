@@ -1,6 +1,8 @@
 <h3 align="center">A passionate Cyber security enthusiasm from India</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/7zNxABjbvrXaaYNE9">
+<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/03/96/79/08/360_F_396790843_2TxRNo4gv2ZqKwWcjBkDRYwM3JEf0F9s.jpg">
 
+<br>
+</br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashbandekar&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashbandekar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyashbandekar" alt="shreyashbandekar" /></a> </p>
