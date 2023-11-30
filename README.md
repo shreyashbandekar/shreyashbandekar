@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyashbandekar" alt="shreyashbandekar" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development & Python**
+- 🌱 I’m currently learning **Full Stack Development & Python & WEB DEVELOPMENT**
 
 - 📫 How to reach me **shreyash.bandekar2015@gmail.com**
 
