@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shreyash Bandekar</h1>
-<h3 align="center">A passionate Cyber security enthusiasm from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.rbi.org.in/commonperson/English/images/CYBER%20SECURITY%20GIF_ENG_04.gif">
-
+<h3 align="center">A passionate Cyber security  enthusiast from India</h3>
+<h5 align="center">"Fueling India's cyber future with enthusiasm and code, aiming for a secure digital realm. 🇮🇳💻 #CybersecurityAmbition"</h5> 
+<h5 align="center">"Proud Indian cyber warrior, dedicated to securing tomorrow's digital realm. 🛡️🇮🇳 #CybersecurityVisionary"</h5>
+<hr>
+<img align="right" alt="Coding" width="1000" src="https://www.rbi.org.in/commonperson/English/images/CYBER%20SECURITY%20GIF_ENG_04.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashbandekar&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashbandekar" /> </p>
 
