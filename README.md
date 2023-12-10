@@ -3,7 +3,7 @@
 <h4 align="center">"Fueling India's cyber future with enthusiasm and code, aiming for a secure digital realm. 🇮🇳💻 #CybersecurityAmbition"</h4> 
 <h4 align="center">"Proud Indian cyber warrior, dedicated to securing tomorrow's digital realm. 🛡️🇮🇳 #CybersecurityVisionary"</h4>
 <hr>
-<img align="right" alt="Coding" width="1000" src="https://www.rbi.org.in/commonperson/English/images/CYBER%20SECURITY%20GIF_ENG_04.gif">
+<img align="right" alt="Coding" width="550" src="https://www.rbi.org.in/commonperson/English/images/CYBER%20SECURITY%20GIF_ENG_04.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashbandekar&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashbandekar" /> </p>
 
